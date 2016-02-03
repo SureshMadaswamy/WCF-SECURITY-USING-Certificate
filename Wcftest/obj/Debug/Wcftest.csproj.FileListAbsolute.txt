@@ -1,0 +1,6 @@
+D:\ItchPad\WcfService Application\Wcftest\bin\Debug\Wcftest.dll.config
+D:\ItchPad\WcfService Application\Wcftest\bin\Debug\Wcftest.dll
+D:\ItchPad\WcfService Application\Wcftest\bin\Debug\Wcftest.pdb
+D:\ItchPad\WcfService Application\Wcftest\obj\Debug\Wcftest.dll
+D:\ItchPad\WcfService Application\Wcftest\obj\Debug\Wcftest.pdb
+D:\ItchPad\WcfService Application\Wcftest\obj\Debug\Wcftest.csprojResolveAssemblyReference.cache

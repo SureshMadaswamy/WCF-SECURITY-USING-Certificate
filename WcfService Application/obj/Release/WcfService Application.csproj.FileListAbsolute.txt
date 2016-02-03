@@ -1,0 +1,5 @@
+D:\ItchPad\WcfService Application\WcfService Application\bin\WcfService Application.dll
+D:\ItchPad\WcfService Application\WcfService Application\bin\WcfService Application.pdb
+D:\ItchPad\WcfService Application\WcfService Application\obj\Release\WcfService Application.csprojResolveAssemblyReference.cache
+D:\ItchPad\WcfService Application\WcfService Application\obj\Release\WcfService Application.dll
+D:\ItchPad\WcfService Application\WcfService Application\obj\Release\WcfService Application.pdb

@@ -1,0 +1,12 @@
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\MainWindow.baml
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\MainWindow.g.cs
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\App.g.cs
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\WCFClient_MarkupCompile.cache
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\WCFClient.g.resources
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.Cache
+D:\ItchPad\WcfService Application\WCFClient\bin\Debug\WCFClient.exe.config
+D:\ItchPad\WcfService Application\WCFClient\bin\Debug\WCFClient.exe
+D:\ItchPad\WcfService Application\WCFClient\bin\Debug\WCFClient.pdb
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\WCFClient.exe
+D:\ItchPad\WcfService Application\WCFClient\obj\Debug\WCFClient.pdb

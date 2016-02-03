@@ -1,0 +1,4 @@
+D:\ItchPad\WcfService Application\WcfService Application\bin\WcfService Application.dll
+D:\ItchPad\WcfService Application\WcfService Application\bin\WcfService Application.pdb
+D:\ItchPad\WcfService Application\WcfService Application\obj\Debug\WcfService Application.dll
+D:\ItchPad\WcfService Application\WcfService Application\obj\Debug\WcfService Application.pdb
